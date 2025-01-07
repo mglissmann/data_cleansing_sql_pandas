@@ -1,0 +1,35 @@
+# Data files
+*.csv
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.tsv
+*.dat
+*.db
+*.sqlite
+*.sqlite3
+*.json
+*.xml
+*.parquet
+*.feather
+*.pkl
+*.sav
+
+# Excel temporary files
+~$*.xls*
+
+# Data folders
+data/
+raw_data/
+processed_data/
+output/
+results/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
